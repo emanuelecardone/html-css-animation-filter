@@ -273,22 +273,22 @@
     }
 
     25%{
-        left: calc(100% - 10px);
+        left: calc(100% - 30px);
         top: -10px;
     }
 
     50%{
-        left: calc(100% - 10px);
+        left: calc(100% - 30px);
         top: 100%;
     }
 
     75%{
-        left: -10px;
+        left: -30px;
         top: 100%;
     }
 
     87%{
-        left: -10px;
+        left: -30px;
         top: -10px;
     }
 
@@ -306,22 +306,22 @@
 
     25%{
         bottom: -10px;
-        right: calc(100% - 10px);
+        right: calc(100% - 30px);
     }
 
     50%{
         bottom: 100%;
-        right: calc(100% - 10px);
+        right: calc(100% - 30px);
     }
 
     75%{
         bottom: 100%;
-        right: -10px;
+        right: -30px;
     }
 
     87%{
         bottom: -10px;
-        right: -10px;
+        right: -30px;
     }
 
     100%{
